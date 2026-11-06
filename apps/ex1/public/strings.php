@@ -38,6 +38,7 @@
     ?>
     <h1>Using Strings Concatenation with dot operator</h1>
     <h2 class="green"><?php echo $message; ?></h2>
+
     <h1>Using String Interpolation</h1>
     <h2 class="blue"><?= $messageStringInterpolation; ?></h2>
 </body>
