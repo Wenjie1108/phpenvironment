@@ -1,4 +1,4 @@
-<?php include_once "../includes/student.php"; ?>
+<?php include_once "../public/student.php"; ?>
 <!DOCTYPE html>
 <html lang="en">
 
